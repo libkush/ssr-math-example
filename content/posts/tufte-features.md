@@ -349,6 +349,9 @@ $$R_1 \begin{cases} >\mu_{2} \\ \leq \mu_{2} \end{cases}$$
 | Agent 1's action   | $a_1$          |
 | New finding        | $R_1 \begin{cases} >\mu_{2} \\ \leq \mu_{2} \end{cases}$ |
 
+
+Following is the math test which was [mentioned in the forum](https://discourse.gohugo.io/t/katex-in-hugo/43274/12)
+
 $$
 \begin{array} {lcl}
   L(p,w_i) &=& \dfrac{1}{N}\Sigma_{i=1}^N(\underbrace{f_r(x_2
