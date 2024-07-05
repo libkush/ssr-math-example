@@ -3,12 +3,16 @@ languageCode = "en-us"
 title = "Kush Patel"
 theme = "hugo-tufte"
 canonifyurls = true
-paginate = 5
+
+[paginator]
+pagerSize = 5
 
 [markup]
 [markup.goldmark]
 [markup.goldmark.extensions]
 KaTeX = true
+[markup.goldmark.renderer]
+unsafe = true
 [markup.highlight]
 noClasses = false
 guessSyntax = true
