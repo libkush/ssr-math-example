@@ -340,7 +340,8 @@ ref: https://burk.io/2020/let-there-be-dark
 
 ### LaTeX & Table
 
-$\LaTeX{}$
+
+Inline $\LaTeX{}$
 
 $$R_1 \begin{cases} >\mu_{2} \\ \leq \mu_{2} \end{cases}$$
 
